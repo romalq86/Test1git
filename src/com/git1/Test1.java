@@ -17,7 +17,7 @@ public class Test1 {
 		//this is some new programming code
 		int a=10;
 		int b=20;
-		System.out.println(a+b):
+		System.out.println(a+b);
 	}
 
 }
