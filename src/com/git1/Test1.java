@@ -13,6 +13,11 @@ public class Test1 {
 		
 		//------------------------
 		System.out.println("hello world");
+		
+		//this is some new programming code
+		int a=10;
+		int b=20;
+		System.out.println(a+b):
 	}
 
 }
